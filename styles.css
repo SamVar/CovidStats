@@ -24,7 +24,7 @@ main {
 	width: 40%;
 }
 .logo {
-	width: 65% !important;
+	width: 70%;
 }
 .logo:hover,
 .footer-logo:hover {
@@ -427,7 +427,7 @@ footer {
 
 @media (max-width: 320px) {
 	.logo {
-		width: 10rem;
+		width: 10rem !important;
 	}
 	.card-body {
 		font-size: 1.1rem;
@@ -1000,6 +1000,7 @@ footer {
 	main {
 		width: 55%;
 	}
+
 	.header-text-container p {
 		font-size: 1.1rem;
 	}
